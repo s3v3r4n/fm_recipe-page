@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/s3v3r4n/fm_social-links-profile]
-- Live Site URL: [https://s3v3r4n.github.io/fm_social-links-profile/]
+- Solution URL: [https://github.com/s3v3r4n/fm_recipe-page]
+- Live Site URL: [https://s3v3r4n.github.io/fm_recipe-page/]
 
 ### Built with
 
